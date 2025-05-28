@@ -1,0 +1,26 @@
+body{background: #0ca6ff;
+}
+h1{background: rgba(49, 19, 19, 1);
+    ;
+text-align: center;
+color: white;
+margin-right: auto;
+margin-left: auto;
+border: 1px solid red;
+width: 450px;}
+.D{background: #000;
+border: 10px solid red;
+width: 600px;
+margin:  auto;
+padding: 25px;}
+p{color: black;
+}
+.A{background: rgba(31, 232, 183, 1);
+    ;
+width: 500px;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+padding: 15px;}
+
